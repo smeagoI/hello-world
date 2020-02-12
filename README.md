@@ -1,2 +1,2 @@
 # hello-world
-newcomer's objective
+oldcomer's objective
